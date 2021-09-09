@@ -1,5 +1,5 @@
 # Sample Repo
-This is a sample of the repository you will create in this orginization. Your repository should be named firstname_lastname so that I can identify it as yours. It should have a directory for assignments and a directory for project 0. This is the location where I will look for project 0 and for assignments I will be grading.  
+This is a sample of the repository you will create in this orginization. Your repository should be named firstname-lastname so that I can identify it as yours. It should have a directory for assignments and a directory for project 0. This is the location where I will look for project 0 and for assignments I will be grading.  
   
 You should clone the repo to your local machine and work on projects/assignments within the repo directory. Make a habit of frequently commiting and pushing up to the repo so you can track and recover your work.  
   
